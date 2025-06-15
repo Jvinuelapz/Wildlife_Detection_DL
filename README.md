@@ -9,7 +9,7 @@ This project explores the use of convolutional neural networks, specifically the
 
 The full project report, which details the data preprocessing, model architecture, training, and evaluation of results, can be found at the link below:
 
-  📄 Read the Full Project Report (PDF)
+  📄 **[Read full report of the proyect (PDF)](Wildlife%20Detection%20using%20Deep%20Learning.pdf)**
 
 🛠️ Technologies Used
 Python 3.9
