@@ -1,1 +1,10 @@
-
+pyyaml
+opencv-python-headless
+numpy
+pandas
+requests
+ultralytics
+scikit-learn
+seaborn
+matplotlib
+ipykernel
