@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 - Data_Augmentation.ipynb: Notebook that implements the data augmentation techniques.
 
-- Model_Training.ipynb: The main notebook for training and evaluating the YOLOv8 models and visualizing the results.
+- Model_Training_and_evaluation.ipynb: The main notebook for training and evaluating the YOLOv8 models and visualizing the results.
 
 - requirements.txt: A list of the required Python dependencies.
 
