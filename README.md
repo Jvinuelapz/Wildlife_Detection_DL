@@ -5,7 +5,7 @@ This repository contains a deep learning project focused on object detection for
 An example visualization of the dataset images with their corresponding bounding boxes. (You can replace this with your own image).
 
 📜 Project Description
-This project explores the use of convolutional neural networks, specifically the YOLOv8 architecture, for object detection in wildlife imagery. Several versions of the model (YOLOv8n, YOLOv8s) are trained and compared, and the impact of data augmentation techniques—such as brightness adjustment and horizontal flipping—is investigated to improve model performance.
+This project explores the use of convolutional neural networks, specifically the YOLOv8 architecture, for object detection in wildlife imagery. Several versions of the model (YOLOv8n, YOLOv8s) are trained and compared, and the impact of data augmentation techniques, such as brightness adjustment and horizontal flipping, is investigated to improve model performance.
 
 The full project report, which details the data preprocessing, model architecture, training, and evaluation of results, can be found at the link below:
 
