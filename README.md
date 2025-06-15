@@ -2,7 +2,7 @@
 This repository contains a deep learning project focused on object detection for identifying four species of African wildlife—buffalo, elephant, rhino, and zebra, using the YOLOv8 model. The objective is to train and evaluate different model variants to achieve accurate and efficient detection.
 
 
-An example visualization of the dataset images with their corresponding bounding boxes. (You can replace this with your own image).
+An example visualization of the dataset images with their corresponding bounding boxes. 
 
 📜 Project Description
 This project explores the use of convolutional neural networks, specifically the YOLOv8 architecture, for object detection in wildlife imagery. Several versions of the model (YOLOv8n, YOLOv8s) are trained and compared, and the impact of data augmentation techniques, such as brightness adjustment and horizontal flipping, is investigated to improve model performance.
